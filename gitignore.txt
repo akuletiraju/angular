@@ -172,4 +172,5 @@ $RECYCLE.BIN/
 .DS_Store
 /.project
 Source/MyNewAngular/ClientApp/src/__ngcc_entry_points__.json
+Source/MyNewAngular/package-lock.json
 Source/MyNewAngular/ClientApp/package-lock.json
